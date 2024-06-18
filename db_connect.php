@@ -1,7 +1,7 @@
 <?php
 // Database connection parameters
-$DATABASE_HOST = 'localhost';
-$DATABASE_NAME = 'PHP-DB';
+$DATABASE_HOST = 'devc-db.cbuc8co4svfz.ap-south-1.rds.amazonaws.com';
+$DATABASE_NAME = 'Devc_DB';
 $DATABASE_USER = 'root';
 $DATABASE_PASS = 'tung2411';
 $DATABASE_PORT = '3308';
